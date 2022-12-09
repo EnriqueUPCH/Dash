@@ -1,0 +1,6 @@
+streamlit_option_menu
+gdown 
+os
+requests
+json
+streamlit_lottie
