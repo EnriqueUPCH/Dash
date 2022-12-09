@@ -2,5 +2,6 @@ gdown
 os
 requests
 json
+streamlit
 streamlit_lottie import st_lottie
 streamlit_option_menu import option_menu
