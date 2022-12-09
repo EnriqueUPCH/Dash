@@ -1,6 +1,6 @@
-streamlit_option_menu
+streamlit-option-menu
 gdown 
 os
 requests
 json
-streamlit_lottie
+streamlit-lottie
